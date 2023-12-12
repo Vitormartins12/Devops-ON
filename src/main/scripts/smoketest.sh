@@ -1,3 +1,2 @@
 echo 'EXECUTANDO SMOKE TEST'
-
-return 0
+return 1
